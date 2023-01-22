@@ -2,11 +2,13 @@
 Meu nome é Adrian Jansen Quindeler, um novo aluno de programação
 * Enquanto eu não estou trabalhando, estou focado em meu crescimento pessoal e aprendizado de programação.
 * Atualmente estou aprendendo Linguagem Javascript, Java, OOP e como dirigir😄
+* Também estou aprendendo Javascript
 * Eu sei inglês, mas não sou fluente ainda. Um dia eu chego lá
 
 # Hi there 👋
 My name is Adrian Jansen Quindeler, a new programming student
 * While I'm not working, I'm focused on my personal growth and learning to code.
+* I'm also learning Javascript
 * I'm currently learning Javascript, Java, OOP and how to drive 😄
 * I'm not fluent in English, but I'm still learning to get there
 
