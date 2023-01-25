@@ -8,8 +8,8 @@ Meu nome é Adrian Jansen Quindeler, um novo aluno de programação
 # Hi there 👋
 My name is Adrian Jansen Quindeler, a new programming student
 * While I'm not working, I'm focused on my personal growth and learning to code.
-* I'm also learning Javascript using Grasshopper
 * I'm currently learning Javascript, Java, and OOP 😄
+* I'm also learning Javascript using Grasshopper
 * I'm not fluent in English, but I'm still learning to get there
 
 <!--
