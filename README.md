@@ -25,11 +25,6 @@ Atualmente, estou na faculdade de TADS e trabalhando na parte de TI voltada à i
 - [Instagram](https://www.instagram.com/adrian_jq?igsh=dnUxNmcxOHRwc2xk)
 
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github.com/Adrian-JQuindeler/github-readme-stats)
-
-
 ## Entre em Contato
 
 Se quiser entrar em contato comigo, sinta-se à vontade para me enviar um e-mail: AdrianQuindeler@Gmail.com ou me encontrar nas redes sociais mencionadas acima.
