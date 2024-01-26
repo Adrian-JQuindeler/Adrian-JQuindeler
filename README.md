@@ -27,7 +27,7 @@ Atualmente, estou na faculdade de TADS e trabalhando na parte de TI voltada à i
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?Adrian-JQuindeler&show_icons=true&count_private=true&hide=contribs)
+![Estatísticas do GitHub](https://github.com/Adrian-JQuindeler/github-readme-stats)
 
 
 ## Entre em Contato
